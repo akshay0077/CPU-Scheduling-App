@@ -16,4 +16,3 @@
 - Gannt chart
 - Animation of what happens in CPU and Waiting Queue
 - History Tab to store previously input data
-- Haptic feedbacks
