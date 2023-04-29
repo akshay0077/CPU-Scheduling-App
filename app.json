@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "CPU Scheduling",
+    "slug": "CPU Scheduling",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/favicon_main.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#50c0d8"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "*/"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.itcraftsolution.cpuscheduling",
+      "buildNumber": "1.0.0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "React Native Application to visualize the CPU Scheduling with different Processes and Animations.",
+    "android": {
+      "package": "com.itcraftsolution.cpuscheduling",
+      "versionCode": 1
+    }
+  }
+}
